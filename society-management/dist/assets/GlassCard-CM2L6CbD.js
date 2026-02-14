@@ -1,0 +1,1 @@
+import{j as d,m as s}from"./index-BCBWPdfR.js";function e({children:r,className:o="",hover:a=!0}){return d.jsx(s.div,{className:`rounded-3xl backdrop-blur-xl bg-white/10 dark:bg-black/10 border border-white/20 dark:border-white/10 shadow-soft dark:shadow-soft-dark ${o}`,whileHover:a?{scale:1.03,y:-4}:void 0,transition:{duration:.2},children:r})}export{e as G};
